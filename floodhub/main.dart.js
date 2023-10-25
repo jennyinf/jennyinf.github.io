@@ -49710,7 +49710,7 @@ zx(a){return this.am_(a)},
 am_(a){var s=0,r=A.O(t.ua),q,p
 var $async$zx=A.P(function(b,c){if(b===1)return A.L(c,r)
 while(true)switch(s){case 0:s=3
-return A.T(A.a6M(A.ek("http://environment.data.gov.uk/flood-monitoring/id/floods?lat="+A.i(a.a)+"&long="+A.i(a.b)+"&dist="+B.e.j(5),0,null),null),$async$zx)
+return A.T(A.a6M(A.ek("https://environment.data.gov.uk/flood-monitoring/id/floods?lat="+A.i(a.a)+"&long="+A.i(a.b)+"&dist="+B.e.j(5),0,null),null),$async$zx)
 case 3:p=c
 if(p.b===200){q=A.aUG(B.as.uh(0,A.Iq(A.Ie(p.e).c.a.i(0,"charset")).df(0,p.w),null))
 s=1
@@ -49721,7 +49721,7 @@ zB(a){return this.am3(a)},
 am3(a){var s=0,r=A.O(t.g9),q,p
 var $async$zB=A.P(function(b,c){if(b===1)return A.L(c,r)
 while(true)switch(s){case 0:s=3
-return A.T(A.a6M(A.ek("http://environment.data.gov.uk/flood-monitoring/id/stations?lat="+A.i(a.a)+"&long="+A.i(a.b)+"&dist="+B.e.j(5),0,null),null),$async$zB)
+return A.T(A.a6M(A.ek("https://environment.data.gov.uk/flood-monitoring/id/stations?lat="+A.i(a.a)+"&long="+A.i(a.b)+"&dist="+B.e.j(5),0,null),null),$async$zB)
 case 3:p=c
 if(p.b===200){q=A.aXZ(B.as.uh(0,A.Iq(A.Ie(p.e).c.a.i(0,"charset")).df(0,p.w),null))
 s=1
@@ -49732,7 +49732,7 @@ zA(a){return this.am2(a)},
 am2(a){var s=0,r=A.O(t.Z0),q,p,o,n,m
 var $async$zA=A.P(function(b,c){if(b===1)return A.L(c,r)
 while(true)switch(s){case 0:s=3
-return A.T(A.a6M(A.ek("http://environment.data.gov.uk/flood-monitoring/id/stations/"+a.as+"/stageScale",0,null),null),$async$zA)
+return A.T(A.a6M(A.ek("https://environment.data.gov.uk/flood-monitoring/id/stations/"+a.as+"/stageScale",0,null),null),$async$zA)
 case 3:m=c
 if(m.b===200){p=B.as.uh(0,A.Iq(A.Ie(m.e).c.a.i(0,"charset")).df(0,m.w),null)
 o=J.ai(p)
@@ -49760,7 +49760,7 @@ o=p.E(0,B.M_)
 n=$.aGJ().jp(p)
 m=$.aGJ().jp(o)
 s=3
-return A.T(A.a6M(A.ek("http://environment.data.gov.uk/flood-monitoring/id/measures/"+B.b.ga1(k.a.split("/"))+"/readings?startdate="+m+"&enddate="+n,0,null),null),$async$zy)
+return A.T(A.a6M(A.ek("https://environment.data.gov.uk/flood-monitoring/id/measures/"+B.b.ga1(k.a.split("/"))+"/readings?startdate="+m+"&enddate="+n,0,null),null),$async$zy)
 case 3:l=c
 if(l.b===200){q=A.aW7(B.as.uh(0,A.Iq(A.Ie(l.e).c.a.i(0,"charset")).df(0,l.w),null))
 s=1
