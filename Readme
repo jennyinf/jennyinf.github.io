@@ -1,0 +1,7 @@
+
+Example build for release to githubio
+
+  289  flutter build web --release --base-href="/leads2trade/"
+  # if new - if overwriting will need to delete first
+  295  cp -r build/web ../jennyinf.github.io/leads2trade
+
