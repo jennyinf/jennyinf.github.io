@@ -1,6 +1,6 @@
 {
-    "name": "l2trade",
-    "short_name": "l2trade",
+    "name": "flood_application",
+    "short_name": "flood_application",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#hexcode",
