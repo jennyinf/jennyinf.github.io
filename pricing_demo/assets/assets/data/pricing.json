@@ -1,0 +1,775 @@
+[
+    {
+      "heightIncrementPrice": 50,
+      "widthIncrement": 200,
+      "category": "Patio Door(2 leaf)",
+      "unitType": "door",
+      "initialPrice": 1290,
+      "startWidth": 1800,
+      "startHeight": 2100,
+      "openerPrice": 0,
+      "detailUplift": {
+        "foilColour": {
+          "multiplier": 0,
+          "uplift": 0
+        },
+        "internalColour": {
+          "uplift": 0,
+          "multiplier": 0
+        },
+        "trickleVent": {
+          "multiplier": 0,
+          "uplift": 0
+        },
+        "obscureGlass": {
+          "uplift": 0,
+          "multiplier": 0
+        },
+        "furnitureColour": {
+          "uplift": 0,
+          "multiplier": 0
+        },
+        "externalDoorColour": {
+          "multiplier": 0,
+          "uplift": 75
+        },
+        "internalDoorColour": {
+          "uplift": 175,
+          "multiplier": 0
+        },
+        "toughenedGlass": {
+          "uplift": 0,
+          "multiplier": 0
+        },
+        "egressHinges": {
+          "multiplier": 0,
+          "uplift": 0
+        },
+        "externalColour": {
+          "uplift": 0,
+          "multiplier": 0
+        }
+      },
+      "heightIncrement": 260,
+      "validCodes": [
+        "81"
+      ],
+      "widthIncrementPrice": 50
+    },
+    {
+      "widthIncrementPrice": 12,
+      "initialPrice": 695,
+      "validCodes": [
+        "46",
+        "47",
+        "48",
+        "49",
+        "50",
+        "51",
+        "52",
+        "53",
+        "54",
+        "55",
+        "56",
+        "57",
+        "58",
+        "87",
+        "88",
+        "89"
+      ],
+      "widthIncrement": 100,
+      "heightIncrement": 100,
+      "startHeight": 900,
+      "detailUplift": {
+        "internalColour": {
+          "uplift": 0,
+          "multiplier": 0.2
+        },
+        "foilColour": {
+          "uplift": 60,
+          "multiplier": 0
+        },
+        "toughenedGlass": {
+          "multiplier": 0,
+          "uplift": 20
+        },
+        "obscureGlass": {
+          "multiplier": 0,
+          "uplift": 13
+        },
+        "internalDoorColour": {
+          "multiplier": 0,
+          "uplift": 0
+        },
+        "furnitureColour": {
+          "uplift": 13,
+          "multiplier": 0
+        },
+        "externalDoorColour": {
+          "uplift": 0,
+          "multiplier": 0
+        },
+        "externalColour": {
+          "multiplier": 0.2,
+          "uplift": 0
+        },
+        "trickleVent": {
+          "uplift": 10,
+          "multiplier": 0
+        },
+        "egressHinges": {
+          "uplift": 15,
+          "multiplier": 0
+        }
+      },
+      "heightIncrementPrice": 12,
+      "category": "Windows",
+      "openerPrice": 100,
+      "unitType": "window",
+      "startWidth": 900
+    },
+    {
+      "startHeight": 400,
+      "widthIncrementPrice": 12,
+      "validCodes": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "66",
+        "67",
+        "68",
+        "69"
+      ],
+      "startWidth": 400,
+      "unitType": "window",
+      "initialPrice": 275,
+      "heightIncrement": 100,
+      "openerPrice": 100,
+      "detailUplift": {
+        "egressHinges": {
+          "multiplier": 0,
+          "uplift": 15
+        },
+        "internalDoorColour": {
+          "multiplier": 0,
+          "uplift": 0
+        },
+        "furnitureColour": {
+          "uplift": 13,
+          "multiplier": 0
+        },
+        "trickleVent": {
+          "uplift": 10,
+          "multiplier": 0
+        },
+        "internalColour": {
+          "multiplier": 0.2,
+          "uplift": 0
+        },
+        "toughenedGlass": {
+          "multiplier": 0,
+          "uplift": 20
+        },
+        "obscureGlass": {
+          "uplift": 13,
+          "multiplier": 0
+        },
+        "foilColour": {
+          "multiplier": 0,
+          "uplift": 60
+        },
+        "externalColour": {
+          "uplift": 0,
+          "multiplier": 0.2
+        },
+        "externalDoorColour": {
+          "multiplier": 0,
+          "uplift": 0
+        }
+      },
+      "widthIncrement": 100,
+      "category": "Windows",
+      "heightIncrementPrice": 12
+    },
+    {
+      "widthIncrementPrice": 40,
+      "category": "Bifold (4 leaf)",
+      "initialPrice": 3260,
+      "heightIncrementPrice": 50,
+      "startHeight": 2100,
+      "widthIncrement": 200,
+      "unitType": "door",
+      "openerPrice": 0,
+      "validCodes": [
+        "84"
+      ],
+      "startWidth": 3000,
+      "detailUplift": {
+        "foilColour": {
+          "uplift": 0,
+          "multiplier": 0
+        },
+        "internalDoorColour": {
+          "uplift": 175,
+          "multiplier": 0
+        },
+        "internalColour": {
+          "multiplier": 0,
+          "uplift": 0
+        },
+        "trickleVent": {
+          "uplift": 0,
+          "multiplier": 0
+        },
+        "externalDoorColour": {
+          "multiplier": 0,
+          "uplift": 75
+        },
+        "obscureGlass": {
+          "multiplier": 0,
+          "uplift": 0
+        },
+        "egressHinges": {
+          "multiplier": 0,
+          "uplift": 0
+        },
+        "furnitureColour": {
+          "multiplier": 0,
+          "uplift": 0
+        },
+        "toughenedGlass": {
+          "uplift": 0,
+          "multiplier": 0
+        },
+        "externalColour": {
+          "uplift": 0,
+          "multiplier": 0
+        }
+      },
+      "heightIncrement": 300
+    },
+    {
+      "unitType": "window",
+      "widthIncrementPrice": 12,
+      "startHeight": 1200,
+      "heightIncrement": 100,
+      "validCodes": [
+        "59",
+        "60",
+        "61",
+        "62",
+        "63",
+        "64",
+        "65",
+        "71",
+        "72",
+        "73",
+        "74"
+      ],
+      "openerPrice": 100,
+      "initialPrice": 695,
+      "startWidth": 900,
+      "widthIncrement": 100,
+      "detailUplift": {
+        "egressHinges": {
+          "multiplier": 0,
+          "uplift": 15
+        },
+        "externalDoorColour": {
+          "multiplier": 0,
+          "uplift": 0
+        },
+        "foilColour": {
+          "multiplier": 0,
+          "uplift": 60
+        },
+        "internalColour": {
+          "uplift": 0,
+          "multiplier": 0.2
+        },
+        "trickleVent": {
+          "multiplier": 0,
+          "uplift": 10
+        },
+        "internalDoorColour": {
+          "multiplier": 0,
+          "uplift": 0
+        },
+        "furnitureColour": {
+          "multiplier": 0,
+          "uplift": 13
+        },
+        "obscureGlass": {
+          "uplift": 13,
+          "multiplier": 0
+        },
+        "externalColour": {
+          "multiplier": 0.2,
+          "uplift": 0
+        },
+        "toughenedGlass": {
+          "multiplier": 0,
+          "uplift": 20
+        }
+      },
+      "category": "Windows",
+      "heightIncrementPrice": 12
+    },
+    {
+      "startHeight": 2000,
+      "widthIncrement": 100,
+      "unitType": "door",
+      "heightIncrement": 100,
+      "validCodes": [
+        "79",
+        "80",
+        "85",
+        "86"
+      ],
+      "openerPrice": 0,
+      "detailUplift": {
+        "egressHinges": {
+          "multiplier": 0,
+          "uplift": 0
+        },
+        "toughenedGlass": {
+          "uplift": 0,
+          "multiplier": 0
+        },
+        "internalColour": {
+          "uplift": 0,
+          "multiplier": 0
+        },
+        "externalColour": {
+          "multiplier": 0,
+          "uplift": 0
+        },
+        "foilColour": {
+          "uplift": 0,
+          "multiplier": 0
+        },
+        "externalDoorColour": {
+          "uplift": 75,
+          "multiplier": 0
+        },
+        "obscureGlass": {
+          "uplift": 0,
+          "multiplier": 0
+        },
+        "internalDoorColour": {
+          "uplift": 175,
+          "multiplier": 0
+        },
+        "furnitureColour": {
+          "uplift": 0,
+          "multiplier": 0
+        },
+        "trickleVent": {
+          "uplift": 0,
+          "multiplier": 0
+        }
+      },
+      "initialPrice": 840,
+      "category": "Front Back Door",
+      "heightIncrementPrice": 10,
+      "widthIncrementPrice": 20,
+      "startWidth": 900
+    },
+    {
+      "detailUplift": {
+        "egressHinges": {
+          "multiplier": 0,
+          "uplift": 15
+        },
+        "internalDoorColour": {
+          "multiplier": 0,
+          "uplift": 0
+        },
+        "internalColour": {
+          "multiplier": 0.2,
+          "uplift": 0
+        },
+        "foilColour": {
+          "multiplier": 0,
+          "uplift": 60
+        },
+        "trickleVent": {
+          "multiplier": 0,
+          "uplift": 10
+        },
+        "externalDoorColour": {
+          "uplift": 0,
+          "multiplier": 0
+        },
+        "toughenedGlass": {
+          "uplift": 20,
+          "multiplier": 0
+        },
+        "externalColour": {
+          "multiplier": 0.2,
+          "uplift": 0
+        },
+        "furnitureColour": {
+          "multiplier": 0,
+          "uplift": 13
+        },
+        "obscureGlass": {
+          "uplift": 13,
+          "multiplier": 0
+        }
+      },
+      "openerPrice": 100,
+      "startHeight": 500,
+      "startWidth": 900,
+      "widthIncrement": 100,
+      "heightIncrementPrice": 12,
+      "unitType": "window",
+      "heightIncrement": 100,
+      "category": "Windows",
+      "initialPrice": 325,
+      "widthIncrementPrice": 12,
+      "validCodes": [
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "44",
+        "44",
+        "45",
+        "70"
+      ]
+    },
+    {
+      "widthIncrement": 200,
+      "detailUplift": {
+        "internalColour": {
+          "uplift": 0,
+          "multiplier": 0
+        },
+        "toughenedGlass": {
+          "multiplier": 0,
+          "uplift": 0
+        },
+        "furnitureColour": {
+          "multiplier": 0,
+          "uplift": 0
+        },
+        "internalDoorColour": {
+          "uplift": 0,
+          "multiplier": 0
+        },
+        "externalColour": {
+          "uplift": 0,
+          "multiplier": 0
+        },
+        "trickleVent": {
+          "multiplier": 0,
+          "uplift": 0
+        },
+        "obscureGlass": {
+          "uplift": 0,
+          "multiplier": 0
+        },
+        "externalDoorColour": {
+          "uplift": 0,
+          "multiplier": 0
+        },
+        "egressHinges": {
+          "multiplier": 0,
+          "uplift": 0
+        },
+        "standardFoil": {
+          "uplift": 725,
+          "multiplier": 0
+        },
+        "standardFoilOnWhite": {
+          "multiplier": 0,
+          "uplift": 500
+        },
+        "foilColour": {
+          "uplift": 0,
+          "multiplier": 0
+        }
+      },
+      "heightIncrementPrice": 90,
+      "heightIncrement": 260,
+      "initialPrice": 2024,
+      "validCodes": [
+        "83"
+      ],
+      "unitType": "door",
+      "category": "Patio Door(3 leaf)",
+      "openerPrice": 0,
+      "startWidth": 2400,
+      "startHeight": 2100,
+      "widthIncrementPrice": 66
+    },
+    {
+      "widthIncrement": 100,
+      "heightIncrement": 100,
+      "openerPrice": 0,
+      "category": "Composite Door",
+      "widthIncrementPrice": 0,
+      "startWidth": 900,
+      "detailUplift": {
+        "foilColour": {
+          "uplift": 0,
+          "multiplier": 0
+        },
+        "toughenedGlass": {
+          "uplift": 0,
+          "multiplier": 0
+        },
+        "egressHinges": {
+          "uplift": 0,
+          "multiplier": 0
+        },
+        "externalDoorColour": {
+          "multiplier": 0,
+          "uplift": 75
+        },
+        "furnitureColour": {
+          "uplift": 0,
+          "multiplier": 0
+        },
+        "internalColour": {
+          "uplift": 0,
+          "multiplier": 0
+        },
+        "trickleVent": {
+          "multiplier": 0,
+          "uplift": 0
+        },
+        "obscureGlass": {
+          "uplift": 0,
+          "multiplier": 0
+        },
+        "externalColour": {
+          "multiplier": 0,
+          "uplift": 0
+        },
+        "internalDoorColour": {
+          "uplift": 175,
+          "multiplier": 0
+        }
+      },
+      "heightIncrementPrice": 0,
+      "unitType": "door",
+      "initialPrice": 1400,
+      "validCodes": [
+        "90",
+        "91",
+        "92"
+      ],
+      "startHeight": 2000
+    },
+    {
+      "startWidth": 2400,
+      "widthIncrement": 200,
+      "openerPrice": 0,
+      "heightIncrementPrice": 105,
+      "startHeight": 2100,
+      "heightIncrement": 260,
+      "category": "Patio Door (4 leaf)",
+      "detailUplift": {
+        "foilColour": {
+          "multiplier": 0,
+          "uplift": 0
+        },
+        "externalDoorColour": {
+          "multiplier": 0,
+          "uplift": 75
+        },
+        "furnitureColour": {
+          "multiplier": 0,
+          "uplift": 0
+        },
+        "internalColour": {
+          "uplift": 0,
+          "multiplier": 0
+        },
+        "internalDoorColour": {
+          "multiplier": 0,
+          "uplift": 175
+        },
+        "egressHinges": {
+          "multiplier": 0,
+          "uplift": 0
+        },
+        "obscureGlass": {
+          "multiplier": 0,
+          "uplift": 0
+        },
+        "toughenedGlass": {
+          "multiplier": 0,
+          "uplift": 0
+        },
+        "trickleVent": {
+          "uplift": 0,
+          "multiplier": 0
+        },
+        "externalColour": {
+          "multiplier": 0,
+          "uplift": 0
+        }
+      },
+      "unitType": "door",
+      "initialPrice": 2410,
+      "widthIncrementPrice": 50,
+      "validCodes": [
+        "82"
+      ]
+    },
+    {
+      "startWidth": 2000,
+      "unitType": "door",
+      "category": "Bifold (3 leaf) Door",
+      "initialPrice": 2650,
+      "openerPrice": 0,
+      "heightIncrementPrice": 100,
+      "detailUplift": {
+        "externalDoorColour": {
+          "multiplier": 0,
+          "uplift": 75
+        },
+        "obscureGlass": {
+          "multiplier": 0,
+          "uplift": 0
+        },
+        "foilColour": {
+          "uplift": 0,
+          "multiplier": 0
+        },
+        "toughenedGlass": {
+          "multiplier": 0,
+          "uplift": 0
+        },
+        "egressHinges": {
+          "multiplier": 0,
+          "uplift": 0
+        },
+        "externalColour": {
+          "uplift": 0,
+          "multiplier": 0
+        },
+        "internalDoorColour": {
+          "multiplier": 0,
+          "uplift": 175
+        },
+        "internalColour": {
+          "multiplier": 0,
+          "uplift": 0
+        },
+        "trickleVent": {
+          "multiplier": 0,
+          "uplift": 0
+        },
+        "furnitureColour": {
+          "multiplier": 0,
+          "uplift": 0
+        }
+      },
+      "widthIncrementPrice": 30,
+      "startHeight": 2100,
+      "validCodes": [
+        "83"
+      ],
+      "widthIncrement": 200,
+      "heightIncrement": 300
+    },
+    {
+      "unitType": "door",
+      "initialPrice": 1040,
+      "widthIncrement": 100,
+      "heightIncrement": 100,
+      "widthIncrementPrice": 30,
+      "detailUplift": {
+        "egressHinges": {
+          "multiplier": 0,
+          "uplift": 0
+        },
+        "furnitureColour": {
+          "uplift": 0,
+          "multiplier": 0
+        },
+        "obscureGlass": {
+          "uplift": 0,
+          "multiplier": 0
+        },
+        "trickleVent": {
+          "multiplier": 0,
+          "uplift": 0
+        },
+        "externalColour": {
+          "uplift": 0,
+          "multiplier": 0
+        },
+        "toughenedGlass": {
+          "uplift": 0,
+          "multiplier": 0
+        },
+        "internalDoorColour": {
+          "uplift": 175,
+          "multiplier": 0
+        },
+        "externalDoorColour": {
+          "uplift": 75,
+          "multiplier": 0
+        },
+        "foilColour": {
+          "uplift": 0,
+          "multiplier": 0
+        },
+        "internalColour": {
+          "uplift": 0,
+          "multiplier": 0
+        }
+      },
+      "startHeight": 2000,
+      "heightIncrementPrice": 20,
+      "startWidth": 1200,
+      "category": "French Door",
+      "openerPrice": 0,
+      "validCodes": [
+        "75",
+        "76",
+        "77",
+        "78"
+      ]
+    }
+  ]
