@@ -530,7 +530,7 @@
       "heightIncrement": 260,
       "initialPrice": 2024,
       "validCodes": [
-        "83"
+        "83", "93", "94"
       ],
       "unitType": "door",
       "category": "Patio Door(3 leaf)",
