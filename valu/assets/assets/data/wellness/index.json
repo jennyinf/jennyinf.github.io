@@ -1,0 +1,37 @@
+[
+    {
+        "category" : "mentalHealth",
+        "source" : "NHS",
+        "file" : "five_steps.json",
+        "title" : "Five steps to mental wellbeing",
+        "description" : "Evidence suggests there are five steps we can all take to improve our mental wellbeing. If you give them a try, you may feel happier, more positive and able to get the most from life."
+    },
+    {
+        "category" : "health",
+        "source" : "NHS",
+        "file" : "fatigue.json",
+        "title" : "Self-help tips to fight tiredness",
+        "description" : "Tiredness can be caused by many things, including stress, poor sleep, poor diet and lack of exercise. Here are some tips to help you feel more energised."
+    },
+    {
+        "category" : "diet",
+        "source" : "NHS",
+        "file" : "balanced_diet.json",
+        "title" : "Balanced diet",
+        "description" : "A balanced diet is important for good health. It can help you feel your best and have plenty of energy."
+    },
+    {
+        "category" : "health",
+        "source" : "NHS",
+        "file" : "sit_less.json",
+        "title" : "Why we should sit less",
+        "description" : "Sitting for long periods of time can cause serious health problems. It is important to take breaks and move around throughout the day."
+    },
+    {
+        "category" : "diet",
+        "source" : "NHS",
+        "file" : "why5.json",
+        "title" : "Why 5 a day?",
+        "description" : "Eating at least 5 portions of fruit and vegetables a day can help reduce the risk of serious health problems, such as heart disease, stroke and some types of cancer."
+    }
+]
